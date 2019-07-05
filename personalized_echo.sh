@@ -5,3 +5,6 @@ echo "Welcome $(</dev/stdin)"
 #cat
 
 #sed -r 's/(.*)/Welcome \1/g'
+
+#read name
+#echo "Welcome $name"
